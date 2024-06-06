@@ -5,7 +5,11 @@
     <classes>
       <class name="functionalTesting.Functionality">
         <methods>
+          <include name="loginWithValidCredential"/>
+          <include name="genarateReport"/>
+          <include name="createOrder"/>
           <include name="teardown"/>
+          <include name="reportFlush"/>
           <include name="setUp"/>
           <include name="addToCart"/>
         </methods>

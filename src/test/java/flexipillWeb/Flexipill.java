@@ -9,8 +9,7 @@ import org.json.simple.JSONObject;
 
 public class Flexipill {
  
-	//private String baseURL = "https://flexipill-ui-new-staging.vercel.app/";
-	//private String Token = "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";
+	
 	
 	 String jwtToken = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjk4NSwiYXV0aF90eXBlIjoiZXh0ZXJuYWxfYXV0aCIsImlhdCI6MTcxNzUzMTU0MCwiZXhwIjoxNzE3NTMyMTQwfQ.81GSbxkAxWLMVHsAzRRKUI4VPMpIafXEcy739npSmWI";
 	
